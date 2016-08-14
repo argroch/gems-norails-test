@@ -1,10 +1,3 @@
-# Only needed for ruby 1.8.x
-require 'rubygems'
-
-# The part that activates bundler in your app
-require 'bundler/setup' 
-
-# require your gems as usual
 # require 'geocoder'
 require 'httparty'
 
